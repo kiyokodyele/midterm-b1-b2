@@ -1,4 +1,4 @@
 # Social Engineering Tools
-* Maltego
+* **Maltego**
   Maltego is link analysis software used for open-source intelligence, forensics and other investigations, originally developed by Paterva from Pretoria, South Africa.
   [Video Tutorial](https://www.youtube.com/watch?v=kmOIhvsklv8)
